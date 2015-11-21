@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.crachtvlistpro"
+       name="CrachTvListPro"
+       version="2.0.0"
+       provider-name="Crach1015">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />    
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>CrachTvListPro Awesome Addon for you</summary>
+    <description>Lista de canales escojidas por mi Osea by Crach1015 muchas de estas provienen de un (Server Privado y de una compañia que no mencionare el nombre) y pues nimodo si estan en falla o caidos los canales no sera mi problema ok solo esperen que ellos resuelvan y yo actualizare las listas espero que les guste</description>
+    <platform>all</platform>
+  </extension>
+</addon>
