@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<items>
+<items_info> <!-- this is opitonal -->
+      <title>CrachTvListPro </title> 
+      <genre>Tv Live</genre>
+      <thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail>
+      <fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+      <date>13.02.2015</date>
+      <credits>crach1015</credits>
+    </items_info>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>                           [COLOR cyan][B]******ˆˆˆBienvedos A Crach1015 TV ListProˆˆˆ******[B]]</title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  MI RECOPILACION DE CANALES [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/CrachTvListPro.m3u</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  USA CHANNELS [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVUS.m3u</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red] CANALES DE ESPAÑA[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVES.m3u</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red] CANALES DE IPVT STALKER [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://github.com/Crach1015/CrachTvListPro/blob/master/All%20channell%20list/Canales-ST.M3U</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  CANALES DE BRASIL [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVBR.m3u</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red]  CANALES DE ARGENTINA [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVAR.m3u</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR red] CANALES EN IDIOMA CASTELLANO [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/Canales-Castellano.M3U</externallink>
+</item>
+
+
+
+
+
+</item>
+
