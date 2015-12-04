@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR red][B]***US Channel***[B][/COLOR]
+#EXTINF:-1, [COLOR red]***US Channel***[/COLOR]
 http://?
 
 
@@ -4977,6 +4977,6 @@ rtmp://$OPT:rtmp-raw=rtmp://medya2.izmir.bel.tr:1935/IBB_CANLI/_definst_ playpat
 #EXTINF:-1 group-title=”WEBCAM”,TR:İZMİR 9
 rtmp://$OPT:rtmp-raw=rtmp://medya2.izmir.bel.tr:1935/IBB_CANLI/_definst_ playpath=Narlidere.stream swfUrl=http://kentkameralari.izmir.bel.tr/flash/IzmirPlayer.swf live=1 pageUrl=http://kentkameralari.izmir.bel.tr/index37.php
 
-#EXTINF:-1,group-title="CrachTVListPro",[COLOR red][B]***********CrachTvListPro*********[B][/COLOR]
+#EXTINF:-1,  [COLOR red][B]***********CrachTvListPro*********[B][/COLOR]
 http://?
 

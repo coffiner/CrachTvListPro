@@ -2,7 +2,7 @@
 
 
 
-#EXTINF:-1, [COLOR red]**CrachTvListPro DEPORTES**[/COLOR]
+#EXTINF:-1,         [COLOR red]**CrachTvListPro DEPORTES**[/COLOR]
 http://?
 
 
@@ -30,7 +30,8 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, Fox Sports 2 HD
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:-1,BeinSports en Españ#EXTINF:-1,PAC National 1280*720
+
+#EXTINF:-1,PAC National 1280*720
 http://xrxs.net/video/live-p12netw-2328.m3u8
 #EXTINF:-1,PAC National 640*360
 http://xrxs.net/video/live-p12netw-1164.m3u8
@@ -88,12 +89,7 @@ http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/master.m3u8
 http://iptvcanales.com/xw/cable.php?canal=31
 #EXTINF:-1, NBC GOLF SD 
 http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
-#EXTINF:-1, BeinSports USA
-http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
-#EXTINF:-1, NFL Network
-http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
 #EXTINF:-1, NBATV
 http://foro:cable@24.139.177.135:9981/stream/channelid/350055333?ticket=BF7D5902A84A2ED714C35BF1A4F0B6D830D2AD0F&profile=pass
-#EXTINF:-1, UFCNetworkLA
-http://foro:cable@24.139.177.135:9981/stream/channelid/677787114?ticket=A95C4FC43F5D401B6151332BACF15940B1AAE2A8&profile=pass
+
 
