@@ -7,8 +7,6 @@ http://?
 
 
 #EXTINF:0, ESPN
-http://199.180.114.174:8000/espn.m3u8
-#EXTINF:0, ESPN
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, ESPN HD
 http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
@@ -17,19 +15,13 @@ http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?-1332%2F1499-20150816T1535
 #EXTINF:0, ESPN + HD
 http://200.76.77.237/LIVE/H01/CANAL516/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, ESPN 2
-http://199.180.114.174:8000/espn2.m3u8
-#EXTINF:0, ESPN 2
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, ESPN2 HD
 http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, ESPN 3
-http://199.180.114.174:8000/espn3.m3u8
-#EXTINF:0, ESPN 3
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, ESPN3 HD
 http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0, Fox Sports
-http://199.180.114.174:8000/foxsports.m3u8
 #EXTINF:0, Fox Sports
 http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0,Fox Sports HD
@@ -38,34 +30,44 @@ http://200.76.77.237/LIVE/H01/CANAL522/PROFILE05.m3u8?-1332%2F1499-20150816T1535
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?-1332%2F1499-20150816T153535.ts=-1
 #EXTINF:0, Fox Sports 2 HD
 http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?-1332%2F1499-20150816T153535.ts=-1
-#EXTINF:0, beIN Sports US
-http://yiptv4-live.hls.adaptive.level3.net/yiptv4/beinengov/03.m3u8
-#EXTINF:0,BT Sport 1
-http://195.154.226.186:1935/liveedge/btsports1lsh/playlist.m3u8
-#EXTINF:0,BT Sport 2
-http://195.154.226.186:1935/liveedge/btsports2lsh/playlist.m3u8
-#EXTINF:0, BT Sport ESPN
-http://195.154.226.186:1935/liveedge/espnuklsh/playlist.m3u8
-#EXTINF:0,BT Sport Europe
-http://195.154.226.186:1935/liveedge/bteulsh/playlist.m3u8
-#EXTINF:0,CBS Sports Network
-http://158.255.6.224:8080/loadchan.php?chan=80&token=ea6d3ebed9dc
+#EXTINF:-1,BeinSports en Españ#EXTINF:-1,PAC National 1280*720
+http://xrxs.net/video/live-p12netw-2328.m3u8
+#EXTINF:-1,PAC National 640*360
+http://xrxs.net/video/live-p12netw-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1280*720
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 640*360
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1280*720
+http://xrxs.net/video/live-p12baya-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 1280*720
+http://xrxs.net/video/live-p12losa-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 640*360
+http://xrxs.net/video/live-p12losa-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1280*720
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 640*360
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1280*720
+http://xrxs.net/video/live-p12wash-2328.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 640*360
+http://xrxs.net/video/live-p12wash-1164.m3u8
+ 
+#EXTINF:-1,Pac Mountain 1920*1080
+http://xrxs.net/video/live-p12moun-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Arizona) 1920*1080
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1920*1080
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Oregon) 1920*1080
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+#EXTINF:-1,PAC-12 Net. (Washington) 1920*1080
+http://xrxs.net/video/live-p12wash-4728.m3u8
+#EXTINF:-1, TBN
+http://acaooyalahd2-lh.akamaihd.net/i/TBN01_delivery@186239/master.m3u8ol HD
+http://yiptv5-live.hls.adaptive.level3.net/yiptv5/beinespgov/01.m3u8
 #EXTINF:0, Eurosport
 http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
-#EXTINF:0, Eurosport 2 FR
-http://3.hls.bolshoe.tv/1/streaming/eurosport2/tvrec/playlist.m3u8
-#EXTINF:0,Eurosport 2 UK
-http://195.154.226.186:1935/liveedge/vesp2lsh/playlist.m3u8
-#EXTINF:0, Eurosport FR
-http://3.hls.bolshoe.tv/1/streaming/eurosport/tvrec/playlist.m3u8
-#EXTINF:0,Eurosport UK
-http://195.154.226.186:1935/liveedge/vesplsh/playlist.m3u8
-#EXTINF:0,Fox Soccer Plus
-http://myafricanmega3.tulix.tv:1935/map-sportsplusafr/map-sportsplusafr/chunklist.m3u8?wowzasessionid=146164351
-#EXTINF:0,Fox Sports 1HD
-http://158.255.6.224:8080/loadchan.php?chan=73&token=ea6d3ebed9dc
-#EXTINF:0,Fox Sports 2HD
-http://158.255.6.224:8080/loadchan.php?chan=74&token=ea6d3ebed9dc
 EXTINF:0,Sky Sport 1
 http://195.154.226.186:1935/liveedge/sky1delsh/playlist.m3u8
 #EXTINF:0,Sky Sports 1
@@ -76,19 +78,22 @@ http://144.76.3.83/sky_sports2gb.m3u8?token=27549478605c2e9d28debee3fb65bb39&use
 http://144.76.3.83/sky_sports3gb.m3u8?token=f663571502c473b739fa94db15303a11&user=41166&bands=956
 #EXTINF:0,Sky Sports 4
 http://144.76.3.83/sky_sports4gb.m3u8?token=579da107ce043898bd207427f873a672&user=41166&bands=956
-#EXTINF:0,Sky Sports 5
-http://195.154.226.186:1935/liveedge/skysports5lsh/playlist.m3u8
-#EXTINF:0,Sky Sports F1
-http://195.154.226.186:1935/liveedge/vskysf1lsh/playlist.m3u8
 #EXTINF:0,Sky Sports News
 http://158.255.6.224:8080/loadchan.php?chan=71&token=ea6d3ebed9dc
-#EXTINF:0,Sportsnet Ontario
-http://158.255.6.224:8080/loadchan.php?chan=790&token=ea6d3ebed9dc
-#EXTINF:0,UFC Network
-http://158.255.6.224:8080/loadchan.php?chan=79&token=ea6d3ebed9dc
 #EXTINF:0, Real Madrid TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
 #EXTINF:0, Sevilla FC
 http://gstudio_hls04-lh.akamaihd.net/i/hls04stream001_0@348222/master.m3u8
-#EXTINF:0, Esport 3
-http://ccma-tva-es-abertis-live.hls.adaptive.level3.net/es/ngrp:es3_web/chunklist_b798000.m3u8
+#EXTINF:-1,TyC Sports
+http://iptvcanales.com/xw/cable.php?canal=31
+#EXTINF:-1, NBC GOLF SD 
+http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/1896k/prog.m3u8
+#EXTINF:-1, BeinSports USA
+http://iptvcanales.com/xw/cable.php?canal=57&player=playlist.m3u8
+#EXTINF:-1, NFL Network
+http://iptvcanales.com/xw/cable.php?canal=67&player=playlist.m3u8
+#EXTINF:-1, NBATV
+http://foro:cable@24.139.177.135:9981/stream/channelid/350055333?ticket=BF7D5902A84A2ED714C35BF1A4F0B6D830D2AD0F&profile=pass
+#EXTINF:-1, UFCNetworkLA
+http://foro:cable@24.139.177.135:9981/stream/channelid/677787114?ticket=A95C4FC43F5D401B6151332BACF15940B1AAE2A8&profile=pass
+
