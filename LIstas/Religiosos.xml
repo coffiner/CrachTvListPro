@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ <items>
+		  <item>
+          <title> CDM International</title>
+          <link>rtmp://unoredcdn.net:1935/ app=cadenadelmilagro playpath=myStream.sdp swfUrl=http://unoredcdn.com/mediaplayer/player.swf pageUrl=http://cdminternacional.com/cdmtv/cdm-hd-700-k/</link>
+          <thumbnail>http://ing-sat.what.hu/images/logo-insert/satlogos/puerto-rico/106-CDM%5B6%5D.jpg</thumbnail>
+          </item>
+		 
+		 <item>
+          <title> EWTN</title>
+          <link>http://ewtn.mpl.miisolutions.net:1935/ewtn-live-5/900.mp4/playlinst.m3u8</link>
+          <thumbnail>http://chnetwork.org/wp-content/themes/Lebenswelt22/images/ewtn-1.jpg</thumbnail>
+          </item>
+          <item>
+          <title> ESNE</title>        
+          <link>http://198.154.228.82:1935/live/esnetv/playlist.m3u8</link>
+          <thumbnail>http://elsembradorministries.com/esne-mobile/images/esne-logo-main.png</thumbnail>
+          </item>                
+          <item>
+          <title> Mariavision</title>        
+          <link>http://74.63.97.188:1935/mariavision1/videomariavision1/playlist.m3u8</link>
+          <thumbnail>http://infocatolica.com/files/mariavision_logo.jpg</thumbnail>
+          </item>                       
+          <item>
+          <title> Cristo Vision</title>        
+          <link>http://cdns840stu1010.multistream.net/cristovisionlive/amlst:live/playlist_b300000_w2000349639.m3u8</link>
+          <thumbnail>http://fundacionacpo.org/wp-content/uploads/2013/05/cristoVision.jpg</thumbnail>
+          </item>                       
+          <item>
+          <title> Teleamiga</title>        
+          <link>http://cdns840stu1010.multistream.net/teleamigalive/amlst:live/canalesdelpueblotv.m3u8</link>
+          <thumbnail>http://hispanic-tv.jumptv.com/images/2007/11/07/logo_triangulo_teleamiga_jpg.png</thumbnail>
+          </item>
+          <item>
+          <title> Televida</title>        
+          <link>http://evo.eltelon.com:443/live/televida/playlist.m3u8</link>
+          <thumbnail>http://www.canalesrd.com/wp-content/uploads/2014/07/logo.png</thumbnail>
+          </item> 
+	      <item>
+          <title> Enlace</title>        
+          <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN07_delivery@186245/master.m3u8</link>
+          <thumbnail>http://2.bp.blogspot.com/-UFR6L9f8pQU/UElK6ByqyLI/AAAAAAAAAus/pwhYXwq9cDc/s1600/canal23.png</thumbnail>
+          </item>
+          <item>
+          <title> Enlace Juvenil</title>        
+          <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN08_delivery@186246/master.m3u8</link>
+          <thumbnail>http://produccioneslyr.webs.com/ENLACE%20JUVENIL.jpg</thumbnail>
+          </item>
+		  
+          <title> Nuevo Tiempo</title>        
+          <link>rtmp://wow1.dallas.digitalproserver.com/ntiempo/ntiempovivo playpath=mp4:livestream1  swfUrl=http://dps.vod.lax-latam.digitalproserver.com/jw/latest/jwplayer.flash.swf?v=70  live=1 pageUrl=http://media.digitalproserver.com/v2/live/ntiempo</link>
+          <thumbnail>http://noticias.adventista.es/wp-content/uploads/sites/8/2013/09/logo-nuevo-tiempo.png</thumbnail>
+          </item> 
+	      
+		  <item>
+          <title> CTNi</title>        
+          <link>http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8</link>
+          <thumbnail>http://www.freeetv.com/images/01_logo/ctni_usa.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Teledunamis</title>        
+          <link>http://f.dc.edge.2.christianworldmedia.com:1935/teledunamis/mp4:teledunamis/playlist.m3u8?</link>
+          <thumbnail>http://www.hosttecsolutions.com/style/images/art/dunamis01.jpg</thumbnail>
+          </item>	  
+ 
+          <item>
+          <title> BYU TV en español</title>        
+          <link>http://byuhd2-lh.akamaihd.net/i/byutvintspanhd2_live@103133/master.m3u8</link>
+          <thumbnail>http://1.bp.blogspot.com/-wZrgDgMvszU/TZ7biv0-GAI/AAAAAAAAACA/4WPh80m_h2c/s200/345-BYU-TV-Int%255B1%255D.jpg</thumbnail>
+          </item>
+ 
+ 
+          <item>
+          <title> JUCE TV</title>        
+          <link>http://acaooyalahd2-lh.akamaihd.net/i/TBN03_delivery@186241/master.m3u8</link>
+          <thumbnail>https://lh3.googleusercontent.com/-mUVPovpfjc8/VRb0wL4ApmI/AAAAAAAAAiE/3BH-YTtOHAg/w320-h240/JUCETV.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Bethel TV HD 720</title>        
+          <link>http://streamtv.betheltv.pe:1935/bethelgospelhd/ngrp:streamingbethel25hd_all/playlist.m3u8</link>
+          <thumbnail>http://mmmbogota.org/wp-content/uploads/2014/02/bethel-tv.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Esperanza TV</title>        
+          <link>rtmp://k3.usastreams.com:1935/etvSD/etvSD</link>
+          <thumbnail>http://2.bp.blogspot.com/-RBx7qA_ivQo/T2fBbD3UXYI/AAAAAAAAKV0/ZACu72sGzSg/s1600/ESPERANZA+TV.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Nazareno TV</title>        
+          <link>rtmp://87.106.232.7/live/myStream_2</link>
+          <thumbnail>http://1.bp.blogspot.com/-Z9mnkg02n7w/VWPX_4dZOmI/AAAAAAAAFZI/CLM9rze7XCQ/s1600/nazareno%2Btv.png</thumbnail>
+          </item>
+		  <item>
+          <title> Alcance TV</title>        
+          <link>http://hd.worldkast.com/8232/smil:8232.smil/chunklist_w1282066740_b1000000.m3u8</link>
+          <thumbnail>http://nebula.wsimg.com/f8567fda0491dc216b39bcdc52b372fb?AccessKeyId=DFBE11245D51D61685BE&disposition=0&alloworigin=1</thumbnail>
+          </item>
+		  <item>
+          <title> Almavisión</title>        
+          <link>http://cdn3.iviplanet.com:1935/Almavision/_definst_/mp4:almavision1/playlist.m3u8</link>
+          <thumbnail>https://pbs.twimg.com/profile_images/1419345166/LOgo-NEW.png</thumbnail>
+          </item>
+		  <item>
+          <title> RTV</title>        
+          <link>http://178.32.53.254/radiovida/mobile/playlist.m3u8</link>
+          <thumbnail>http://es.simwiki.org/images/0/0d/Rtv.png</thumbnail>
+          </item>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    </items>
+    </channel>

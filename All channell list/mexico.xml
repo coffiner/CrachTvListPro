@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+<items>
+           <item>
+          <title> Ocho TV</title>        
+          <link>http://201.130.193.150:1935/codecsys/smil:ocho.smil/master.m3u8</link>
+          <thumbnail>http://www.freeetv.com/images/02_logo/ochotv_mexico.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> 7 Mazatlan</title>        
+          <link>http://74.63.97.188:1935/gpacifico4/videogpacifico4/playlist.m3u8?</link>
+          <thumbnail>http://mazatlantv.webcindario.com/tv/canal-7.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Canal 3 Culiacan</title>        
+          <link>http://74.63.97.188:1935/gpacifico1/videogpacifico1/chunklist_w190946758_DVR.m3u8</link>
+          <thumbnail>http://www.tvpacifico.com.mx/portal/images/logos/C3.png</thumbnail>
+          </item>
+		  <item>
+          <title> Capital 21 TV </title>        
+          <link>http://187.237.253.94:8134/hls-live/livepkgr/_definst_/liveevent.m3u8</link>
+          <thumbnail>http://3.bp.blogspot.com/-gfCdUKriEEs/U1nYL95YF3I/AAAAAAAAlN0/kzenag8k1I0/s1600/1526478_202185406653496_1243902397_n.jpg</thumbnail>
+
+          </item>
+		  <item>
+          <title> MEXIQUENSE</title>        
+          <link>rtmp://fss28.streamhoster.com:1935/lv_tvmexiquense/_definst_/broadcast1</link>
+          <thumbnail>http://i.imgur.com/YyuQA.png</thumbnail>
+          </item>
+		  <item>
+          <title> Canal 5TV Sabinas</title>        
+          <link>http://50.7.29.178:1935/gnode06/videognode06/chunklist_w268971585_DVR.m3u8</link>
+
+          <thumbnail>https://lh4.ggpht.com/nECJJ5RuGtKCs7mduN-R5mKJyzki9aoWz4TClgd8Th78dWnKhZ4tnA25d-8bl5VP2hZL=w300</thumbnail>
+          </item>
+		  <item>
+          <title> Canal 2 CD.Obregon</title>  
+
+          <link>http://74.63.97.188:1935/gpacifico3/videogpacifico3/chunklist_w387103843.m3u8</link>
+          <thumbnail>http://tvonlinegratis.com/wp-content/uploads/2014/06/Canal2-Obregon-Mx-Logo-300x300.jpg</thumbnail>
+          </item>
+		  <item>
+          <title> Campeche TV Telemar</title>        
+          <link>http://wms.tecnoxia.com:1935/8004/8004/telemarmexico.m3u8</link>
+
+          <thumbnail>http://static.wixstatic.com/media/76317c_697bf6f4da9f9e595cb5cc320f17f85c.png_srz_212_224_85_22_0.50_1.20_0.00_png_srz</thumbnail>
+          </item>
+		  
+		  <item>
+          <title> Canal 10 Cancun</title> 
+
+          <link>http://www.promovision.mx:1935/live/tvlive2/playlist.m3u8?</link>
+          <thumbnail>http://4.bp.blogspot.com/_fKsoo-61JkA/TBq3ZHCzikI/AAAAAAAAAJI/HJk3YLAf8wc/S220/Logo+Canal+10+3d+GIF+6x5.gif</thumbnail>
+          </item>
+		  
+          <item>
+		  <title> Azteca 13</title>
+          <link>http://aztecalive-lh.akamaihd.net/i/0oxnvzh8a_1@175671/index_1_av-b.m3u8</link>
+          <thumbnail>http://www.onlinetv.planetfools.com/imagenes/azteca13.jpg</thumbnail>
+          </item>
+
+          <item>
+          <title> Proyecto 40</title>
+          <link>http://urtmpkal-f.akamaihd.net/i/05i15qzql_1@149710/index_3_av-p.m3u8</link>
+          <thumbnail>http://www.onlinetv.planetfools.com/imagenes/proyecto40.jpg</thumbnail>
+          </item>
+
+          <item>
+          <title> Azteca Noticias</title>
+          <link>http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8</link>
+          <thumbnail>http://www.onlinetv.planetfools.com/imagenes/aztecanoticias.jpg</thumbnail>
+          </item>
+
+          <item>
+          <title> Canal 2</title>
+          <link>http://tvsawpdvr-lh.akamaihd.net/i/stch02wp_1@119660/index_648_av-p.m3u8</link>
+          <thumbnail>http://www.onlinetv.planetfools.com/imagenes/estrellasv.jpg</thumbnail>
+          </item>
+
+          <item>
+          <title> Gala TV</title>
+          <link>http://rightbrainmedia.mpl.miisolutions.net/rightbrainmedia-live-244/_definst_/mp4:GalaTVCancun/chunklist_w1944875102.m3u8?0.8788695810362697</link>
+          <thumbnail>http://tv-porinternet2.com/file/2015/06/Gala_TV_logo_2013.png</thumbnail>
+          </item>
+
+          <item>
+          <title> Foro TV</title>
+          <link>http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/index_1200_av-b.m3u8</link>
+          <thumbnail>http://www.onlinetv.planetfools.com/imagenes/foro.jpg</thumbnail>
+          </item>
+
+          <item>
+          <title> Canal 15 Fresnillo</title>
+          <link>http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15fresnillo/livestream/playlist.m3u8</link>
+          <thumbnail>http://www.b15.com.mx/images/logofacebook.png</thumbnail>
+          </item>
+
+          <item>
+          <title> Canal 15 Zacatecas</title>
+          <link>http://live.zuperdns.net:1935/zuperhosting.live.grupob.canal15zacatecas/livestream/playlist.m3u8</link>
+          <thumbnail>http://www.b15.com.mx/images/logominicanal15zacatecas.png</thumbnail>
+          </item>
+
+          <item>
+          <title> Canal 3</title>
+          <link>http://74.63.97.188:1935/gpacifico1/videogpacifico1/playlist.m3u8?DVR</link>
+          <thumbanil>http://www.tvpacifico.com.mx/portal/images/logos/C3.png</thumbnail>
+          </item>
+
+          <item>
+          <title> TV Acapulco</title>
+          <link>rtmp://stream.hosteris.com:1935/tvacapulco/ playpath=tvacapulco swfUrl=http://stream.hosteris.com/system/misc/jwplayer6/jwplayer.flash.swf live=1 pageUrl=http://www.tvacapulco.com/</link>
+          <thumbanil>http://www.televisaregional.tv/images/Acapulco_GalaTv_640x320.png</thumbnail>
+          </item>
+
+          <item>
+          <title> Telemax TV</title>
+          <link>http://enhd.co:1935/ilive/ilive/playlist.m3u8</link>
+          <thumbanil>http://www.telemax.com.mx/wp-content/uploads/2015/03/Telemax215x80-01.png</thumbnail>
+          </item>		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+    </items>
+    </channel>
