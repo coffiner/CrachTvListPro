@@ -60,7 +60,7 @@
 
 
 <item>
-<title>               [COLOR deepskyblue]   update: [COLOR yellow]05[/COLOR] • Diciembre • 2015[/COLOR]      </title>
+<title>               [COLOR deepskyblue]   update: [COLOR yellow]09[/COLOR] • Diciembre • 2015[/COLOR]      </title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 
 
@@ -83,14 +83,14 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red] ***Deportes***[/COLOR] [COLOR white][Sports] [/COLOR]</title>
+<title>[COLOR lime]*[/COLOR][COLOR red] ***Deportes***[/COLOR] [COLOR white][Sports] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/DEPORTES.M3U</externallink>
 </item>
 
 <!--
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]  [B]Sports[/B]   [/COLOR][COLOR skyblue][Acestreams Channels] [/COLOR]</title>
+<title>[COLOR lime]*[/COLOR][COLOR red]  [B]Sports[/B]   [/COLOR][COLOR skyblue][Acestreams Channels] [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/ace.xml</externallink>
 </item>
@@ -103,35 +103,49 @@
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]  **Stalker**   [/COLOR][COLOR white][Nescafe] [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red]  **Stalker**   [/COLOR][COLOR white][Nescafe] [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/nescafe.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]***MI LISTA DE RECOPILACION DE CANALES***[/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red]***MI LISTA DE RECOPILACION DE CANALES***[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/CrachTvListPro.php</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]***Internacionales***[/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red]***Internacionales***[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/inter.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red]***FTA LIST***[/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red]***Canales Religiosos***[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/Religiosos.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR red]***FTA LIST***[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/FTA%20LIST%20</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR red] ***Channel List From Around The World***[/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red]*** Peliculas 24-7***[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/24-7.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR red] ***Channel List From Around The World***[/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20Channel%20list.xml</externallink>
 </item>
