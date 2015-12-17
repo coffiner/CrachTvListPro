@@ -40,6 +40,12 @@
 
 
 <item>
+<title>              [COLOR red]******  FELIZ[/COLOR][COLOR white]NAVIDAD ******[/COLOR]</title>
+<link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+</item>
+
+
+<item>
 <title>              [COLOR red]****** Bienvedos A CrachTV[/COLOR][COLOR white]ListPro ******[/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 </item>
@@ -60,7 +66,7 @@
 
 
 <item>
-<title>               [COLOR deepskyblue]   update: [COLOR yellow]09[/COLOR] • Diciembre • 2015[/COLOR]      </title>
+<title>               [COLOR deepskyblue]   update: [COLOR yellow]16[/COLOR] • Diciembre • 2015[/COLOR]      </title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 
 
@@ -103,7 +109,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red]  ** Stalker **   [/COLOR][COLOR white][Nescafe] [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red] *** Stalker *** [/COLOR][COLOR white][Nescafe]- Estan Caidos Por el momento [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/nescafe.xml</externallink>
 </item>
@@ -141,6 +147,13 @@
 <title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas 24-7 *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/24-7.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR red] *** FITNES VIDEOS *** [/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/raw%20fitnes.php</externallink>
 </item>
 
 
