@@ -1,0 +1,63 @@
+#EXTM3U
+#EXTINF:-1 , TeleAntillas
+http://mek4.mekstream.com/teleantillas/smil:teleantillas.smil/playlist.m3u8
+
+#EXTINF:-1 , Radio Television Dominicana
+http://216.24.196.40:1935/live/canal4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 7 de Antena Latina (República Dominicana)" tvg-name="Canal 7 de Antena Latina (República Dominicana)", Antena Latina
+http://ss6.domint.net:1962/al_str/antena/playlist.m3u8
+
+#EXTINF:-1 , Peravia Vision
+http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8
+
+#EXTINF:-1 , VegaTV
+http://ss7.domint.net:2084/vtv_str/canal8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal CDN-SportsMax" tvg-name="Canal CDN-SportsMax", CDN Sport Max
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal 9 de Color Visión (República Dominicana)" tvg-name="Canal 9 de Color Visión (República Dominicana)", Color Vision
+http://ss8.domint.net:2048/cvis_str/video/playlist.m3u8
+
+#EXTINF:-1 , TELENORD
+http://mek2.mekstream.com/telenord10/live2/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Telesistema 11 (República Dominicana)" tvg-name="Canal Telesistema 11 (República Dominicana)", TeleSistemas
+http://mek4.mekstream.com/telesistema/smil:telesistema.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Telecentro (13 de República Dominicana)" tvg-name="Canal Telecentro (13 de República Dominicana)", TeleCentro 13
+http://ss7.domint.net:2050/tcc_str/tc13/playlist.m3u8
+
+#EXTINF:-1 , CinaVision 19
+http://xcinevisioncanal19x.api.channel.livestream.com/3.0/playlist.m3u8
+
+#EXTINF:-1 , TeleUniverso
+http://ss7.domint.net:1942/tu_str/universo/playlist.m3u8
+
+#EXTINF:-1 , SuperCanal 33
+http://ss6.domint.net:2010/sc33_str/super/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal CDN" tvg-name="Canal CDN", CDN 37
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8 
+
+#EXTINF:-1 , TeleVida
+rtmp://69.175.12.34/live/ALOJADO_TELEVIDA
+
+#EXTINF:-1 , ROMANA TV 42
+http://tv.romanatv42.com:1935/rtplive/romanatv.sdp/playlist.m3u8
+
+#EXTINF:-1 , Tele Radio America (TRA)
+http://qs1.distream.net:2116/t45_str/canal45/playlist.m3u8
+
+#EXTINF:-1 , Tele Radio America 2(TRA)
+http://ss7.domint.net:2068/t45_str/trlive/playlist.m3u8
+
+#EXTINF:-1 , AME 47
+http://asx.domiplay.net:1935/rtplive/ame47.sdp/playlist.m3u8
+
+#EXTINF:-1 , Licey
+http://ss6.domint.net:1936/ly_edge/licey/playlist.m3u8
+
+#EXTINF:-1 , Escogido
+http://ss6.domint.net:1972/es_edge/esco/playlist.m3u8
