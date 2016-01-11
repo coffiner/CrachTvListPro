@@ -63,7 +63,7 @@
 
 
 <item>
-<title>               [COLOR deepskyblue]   update: [COLOR yellow]10[/COLOR] • Diciembre • 2016[/COLOR]      </title>
+<title>               [COLOR deepskyblue]   update: [COLOR yellow]11[/COLOR] • Diciembre • 2016[/COLOR]      </title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 
 
@@ -86,7 +86,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] ***Deportes*** [/COLOR] [COLOR white][Sports] [/COLOR]</title>
+<title>[COLOR lime]*[/COLOR][COLOR red] ***Deportes*** [/COLOR] [COLOR white](Sports) [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/DEPORTES.M3U</externallink>
 </item>
@@ -122,7 +122,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** MI LISTA DE RECOPILACION DE CANALES *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR deepskyblue] *** MI LISTA DE RECOPILACION DE CANALES *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/CrachTvListPro.php</externallink>
 </item>
@@ -136,7 +136,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** Canales Religiosos *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR white] *** Canales Religiosos *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/Religiosos.xml</externallink>
 </item>
@@ -150,34 +150,34 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas 24-7 *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas y [/COLOR][COLOR white] Series 24-7 *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/24-7.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** Series De Tv *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR gold] *** Series De Tv *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/tv.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** FITNES VIDEOS *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR green] *** FITNES VIDEOS *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/raw%20fitnes.php</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** Channel List From Around The World *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR yellow] *** Channel List From Around The World *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20Channel%20list.xml</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] *** LIVE WORLD WEB CAMS *** [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR pink] *** LIVE WORLD WEB CAMS *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/WORLD%20WEBCAMS%20EN%20VIVO.M3U</externallink>
 </item>

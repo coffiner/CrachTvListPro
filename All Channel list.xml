@@ -52,14 +52,14 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red]  USA CHANNELS [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR deepskyblue]  USA CHANNELS [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVUS.php</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] CANALES DE R.D. [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR gold] CANALES DE R.D. [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/Dominican.m3u</externallink>
 </item>
@@ -73,7 +73,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red]  CANALES DE MEXICO [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR green]  CANALES DE MEXICO [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/mexico.xml</externallink>
 </item>
@@ -88,7 +88,7 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red]  CANALES DE BRASIL [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR cyan]  CANALES DE BRASIL [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/TVBR.php</externallink>
 </item>
@@ -103,14 +103,14 @@
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red] CANALES EN IDIOMA CASTELLANO [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR white] CANALES EN IDIOMA CASTELLANO [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/Canales-Castellano.php</externallink>
 </item>
 
 
 <item>
-<title>[COLOR lime]*[/COLOR][COLOR red]  CANALES DE VENEZUELA [/COLOR] </title>
+<title>[COLOR lime]*[/COLOR][COLOR blue]  CANALES DE VENEZUELA [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/All%20channell%20list/venezuela.xml</externallink>
 </item>
