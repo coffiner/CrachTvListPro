@@ -43,7 +43,7 @@
 
 
 <item>
-<title>              [COLOR red]****** Bienvedos A CrachTV[/COLOR][COLOR white]ListPro ******[/COLOR]</title>
+<title>              [COLOR red]****** Bienvedos A Crach[/COLOR][COLOR white]TvListPro ******[/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 </item>
 
@@ -55,7 +55,7 @@
 
 
 <item>
-<title>[COLOR yellow]***** Dudas o Algo parecido me puedes conseguir en mi facebook ( Crach1015 ) o en mi twitter (@ipodnatic)*****[/COLOR]</title>
+<title>[COLOR yellow]***** Dudas o Algo parecido me puedes conseguir en mi facebook (Crach1015) o en mi twitter (@ipodnatic)*****[/COLOR]</title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 </item>
 
@@ -65,7 +65,7 @@
 
 
 <item>
-<title>               [COLOR deepskyblue]   update: [COLOR yellow]11[/COLOR] • Diciembre • 2016[/COLOR]      </title>
+<title>               [COLOR deepskyblue]   update: [COLOR yellow]20[/COLOR] • Diciembre • 2016[/COLOR]      </title>
 <link>http://adrian.kodistream.info/adryan/liist.xml</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 
 
@@ -155,6 +155,16 @@
 <title>[COLOR lime]*[/COLOR][COLOR red] *** Peliculas y [/COLOR][COLOR white] Series 24-7 *** [/COLOR] </title>
 <link>http://ignorame</link><thumbnail>http://i.imgur.com/nxqEruC.png</thumbnail><fanart>http://i.imgur.com/qerZlgm.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/Crach1015/CrachTvListPro/master/LIstas/24-7.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]*[/COLOR][COLOR coral] *** AloFlix *** [/COLOR][COLOR white] (Movies en SD&HD y Audio Latino)[/COLOR]  </title>
+<link>http://ignora.me</link>
+<externallink>http://dl.dropboxusercontent.com/s/yzdmaw17oj7dzxm/AloFlix.xml</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://i.imgur.com/iYCbuTY.jpg</thumbnail>
+<info></info>
 </item>
 
 
